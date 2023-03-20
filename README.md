@@ -4,11 +4,11 @@
   <li>🎓 I'm learning Front and Back-end.</li>
 </ul>
  
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/zankyot"></a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zankyot&show_icons=true&theme=radical">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zankyot&layout=compact&langs-count=168&theme=radical">
-</div>
+</div> -->
   
 <div style="inline_block">
   <h1 align="center">🧠 My skills</h1>
